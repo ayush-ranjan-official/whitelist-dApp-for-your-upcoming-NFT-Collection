@@ -1,4 +1,5 @@
 # whitelist-dApp-for-your-upcoming-NFT-Collection
+Deployed App: https://whitelist-d-app-for-your-upcoming-nft-collection.vercel.app/
 
 ### Smart Contract
 
