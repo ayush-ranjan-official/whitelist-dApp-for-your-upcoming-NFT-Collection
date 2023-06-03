@@ -1,6 +1,8 @@
 # whitelist-dApp-for-your-upcoming-NFT-Collection
 Deployed App: https://whitelist-d-app-for-your-upcoming-nft-collection.vercel.app/
 
+Built using Next.js 13 (App Router)
+
 ### Smart Contract
 
 To build the smart contract we will be using [Hardhat](https://hardhat.org/).
